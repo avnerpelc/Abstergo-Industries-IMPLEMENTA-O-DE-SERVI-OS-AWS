@@ -1,4 +1,4 @@
-# Strength---Honor-IMPLEMENTA-O-DE-SERVI-OS-AWS
+# Abstergo-Industries-IMPLEMENTA-O-DE-SERVI-OS-AWS
 RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 27/05/2023 Empresa: Abstergo Industries Responsável: Avner Pelc
